@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539704082195.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2536724390",
+    "id" : "64B05CC8",
+    "lastKnownWriteTime" : 1539704317,
+    "last_content_update" : 1539704317224,
+    "path" : "C:/Users/admin/AppData/Roaming/GitHub Desktop/first/2018-09-19.Rmd",
+    "project_path" : "2018-09-19.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
