@@ -1,0 +1,27 @@
+---
+title: "2018-09-26"
+output: html_notebook
+---
+```{r}
+class(a<-5)
+class(a2<-5L)
+```
+
+```{r}
+class(aVector<-c(5,6,7))
+class(a2Vector<-c(5L,6L,7L))
+```
+
+```{r}
+class(b<-"你好")
+class(bVector<-c("你好","How are you?"))
+```
+
+```{r}
+library(readr)
+student <- read_csv("https://raw.githubusercontent.com/tpemartin/course-107-1-programming-for-data-science/master/data/student.csv")
+library(dplyr)
+library(magrittr)
+mutate(身高級距=cut(,c(0,150,155,160,165,170,175,180,185,200)))
+```
+

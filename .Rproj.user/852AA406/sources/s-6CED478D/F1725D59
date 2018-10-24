@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540365765397.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1465558030",
+    "id" : "F1725D59",
+    "lastKnownWriteTime" : 1540370876,
+    "last_content_update" : 1540370876435,
+    "path" : "~/GitHub/nina2089/20181024.Rmd",
+    "project_path" : "20181024.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "24,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
